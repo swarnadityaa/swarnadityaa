@@ -8,7 +8,7 @@ I try to continuously learn as I believe knowledge is power 🔮 and details mat
 
 I do like working in and around the Kubernetes ecosystem ☸️🌍. My current favorite tool is GitHub Copilot.
 
-Outside of technology, I like my ped 🐕 Aduri and my Roosters 🐔 (Naruto,Speed,Helly) football ⚽ and lots of abnormal things 📺🍸.
+Outside of technology, I like my ped 🐕 Aduri and my Roosters 🐔 (Naruto,Speed,Helly) love and dream about football ⚽ and lots of abnormal things 📺🍸.
 
 I am an open-source enthusiast.
 
